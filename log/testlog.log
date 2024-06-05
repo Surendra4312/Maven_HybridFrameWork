@@ -1,0 +1,20 @@
+2024-05-30 06:44:51,416 - org.openqa.selenium.chrome.ChromeDriver -INFO - username is entered
+2024-05-30 06:44:51,488 - org.openqa.selenium.chrome.ChromeDriver -INFO - password is entered
+2024-05-30 06:44:52,700 - org.openqa.selenium.chrome.ChromeDriver -INFO - login btn clicking activity is completed
+2024-05-30 06:44:52,913 - org.openqa.selenium.chrome.ChromeDriver -INFO - Screenshot is taken
+2024-05-30 06:44:52,914 - org.openqa.selenium.chrome.ChromeDriver -INFO - testcase is failed
+2024-05-30 10:41:41,628 - org.openqa.selenium.chrome.ChromeDriver -INFO - username is entered
+2024-05-30 10:41:41,802 - org.openqa.selenium.chrome.ChromeDriver -INFO - password is entered
+2024-05-30 10:41:44,520 - org.openqa.selenium.chrome.ChromeDriver -INFO - login btn clicking activity is completed
+2024-05-30 10:41:44,542 - org.openqa.selenium.chrome.ChromeDriver -INFO - testcase is passed
+2024-05-31 09:30:59,186 - org.openqa.selenium.chrome.ChromeDriver -INFO - username is entered
+2024-05-31 09:30:59,387 - org.openqa.selenium.chrome.ChromeDriver -INFO - password is entered
+2024-05-31 09:31:01,406 - org.openqa.selenium.chrome.ChromeDriver -INFO - login btn clicking activity is completed
+2024-05-31 09:31:01,855 - org.openqa.selenium.chrome.ChromeDriver -INFO - screenshot is taken
+2024-05-31 09:31:02,227 - org.openqa.selenium.chrome.ChromeDriver -INFO - screenshot is taken
+2024-05-31 10:18:59,060 - org.openqa.selenium.chrome.ChromeDriver -INFO - username is entered
+2024-05-31 10:18:59,236 - org.openqa.selenium.chrome.ChromeDriver -INFO - password is entered
+2024-05-31 10:19:00,925 - org.openqa.selenium.chrome.ChromeDriver -INFO - login btn clicking activity is completed
+2024-05-31 10:19:01,205 - org.openqa.selenium.chrome.ChromeDriver -INFO - screenshot is taken
+2024-05-31 10:19:01,466 - org.openqa.selenium.chrome.ChromeDriver -INFO - screenshot is taken
+2024-06-01 06:55:12,016 - org.openqa.selenium.chrome.ChromeDriver -INFO - screenshot is taken
