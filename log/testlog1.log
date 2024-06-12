@@ -18,3 +18,7 @@
 2024-05-31 10:19:01,205 [main] INFO org.openqa.selenium.chrome.ChromeDriver - screenshot is taken
 2024-05-31 10:19:01,466 [main] INFO org.openqa.selenium.chrome.ChromeDriver - screenshot is taken
 2024-06-01 06:55:12,016 [main] INFO org.openqa.selenium.chrome.ChromeDriver - screenshot is taken
+2024-06-12 11:45:25,761 [main] INFO org.openqa.selenium.chrome.ChromeDriver - username is entered
+2024-06-12 11:45:25,930 [main] INFO org.openqa.selenium.chrome.ChromeDriver - password is entered
+2024-06-12 11:45:27,942 [main] INFO org.openqa.selenium.chrome.ChromeDriver - login btn clicking activity is completed
+2024-06-12 11:45:28,312 [main] INFO org.openqa.selenium.chrome.ChromeDriver - screenshot is taken

@@ -1,4 +1,4 @@
-package DemoCyclos;
+package Cyclos_PageObject;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -6,9 +6,9 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.Select;
 
-public class Cyclos_Register {
+public class Cyclos_RegisterPage {
 	WebDriver driver;
-	public Cyclos_Register(WebDriver driver)
+	public Cyclos_RegisterPage(WebDriver driver)
 	{
 		this.driver=driver;
 		PageFactory.initElements(driver, this);
@@ -31,6 +31,8 @@ public class Cyclos_Register {
 	WebElement txtPassword;
 	@FindBy(id="id_8")
 	WebElement txtPasswordconfirmation;
+	@FindBy(xpath="//label[@for='id_9']")
+	WebElement DemoCheckbox;
 	@FindBy(xpath="//span[text()='Submit']")
 	WebElement Submitbutton;
 
@@ -71,6 +73,9 @@ public class Cyclos_Register {
 	public void setPasswordconfirmation(String Passwordconfirmation)
 	{
 		txtPasswordconfirmation.sendKeys();
+	}
+	public void DemoCheckbox() {
+		DemoCheckbox.click();
 	}
 	public void clickSubmit()
 	{
